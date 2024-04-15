@@ -17,3 +17,13 @@
   left: 23px;
   bottom: 23px;
 }
+
+.point__more {
+  background-color: tomato;
+  width: 6px;
+  height: 6px;
+  border-radius: 3px;
+  position: absolute;
+  right: 30px;
+  top: 5px;
+}
